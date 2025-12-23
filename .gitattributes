@@ -1,1 +1,5 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
+*.csv
+US_Accidents_March23.csv
+cleaned_us_accidents.csv
+
